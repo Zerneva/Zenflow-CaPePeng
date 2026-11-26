@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316408864764",
+    "project_id": "zenflow-3fcf5",
+    "storage_bucket": "zenflow-3fcf5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316408864764:android:3eec77ba5df9919ce41c79",
+        "android_client_info": {
+          "package_name": "com.example.pem_and_pen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316408864764-v1nlujumu9snb5cnsphkqhivl0il0rha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEcT37LJ3jre8Aj22K7froY-fFp8_ADwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316408864764-v1nlujumu9snb5cnsphkqhivl0il0rha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
